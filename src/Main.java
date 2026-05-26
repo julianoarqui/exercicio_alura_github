@@ -22,6 +22,6 @@ public class Main {
         char letra = 'A';
         String palavra = "Alô Mundo!" + letra;
         System.out.println(palavra);
-        //----teste alteracao-------
+        //----teste sem alteracao-------
     }
 }
